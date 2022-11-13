@@ -15,3 +15,5 @@ npm audit fix --legacy-peer-deps
 npm run serve
 ```
 
+### Access to web page
+go to : http://localhost:8080/
