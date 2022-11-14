@@ -17,3 +17,7 @@ npm run serve
 
 ### Access to web page
 go to : http://localhost:8080/
+
+### Security of the app : connect in admin mode
+Username : admin
+Password : adminPassword
